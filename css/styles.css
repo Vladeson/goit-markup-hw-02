@@ -81,6 +81,7 @@ body {
     background-color: var(--btn-color);
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
+    cursor: pointer;
 }
 
 .btn:hover,
@@ -156,6 +157,7 @@ body {
     background-color: var(--back-secondary-color);
     border: 1px solid var(--border-color);
     border-radius: 4px;
+    cursor: pointer;
 }
 
 .portfolio-btn:hover,
