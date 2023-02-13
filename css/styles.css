@@ -55,6 +55,13 @@ body {
     color: var(--secondary-color);
 }
 
+.nav-link:hover,
+.nav-link:focus,
+.connection-link:hover,
+.connection-link:focus {
+    color: var(--btn-hover-color);
+}
+
 /* ========== Hero ========== */
 
 .hero {
